@@ -1,0 +1,8 @@
+#
+*.png
+
+# 
+demo/*.asm
+demo/*.ips
+demo/*.bps
+demo/*.txt
